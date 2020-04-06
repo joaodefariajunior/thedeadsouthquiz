@@ -113,21 +113,21 @@ const questions = [{
         }
     ]
 }, {
-    question: 'I dont feel no more ...I just want ... ?',
+    question: 'Their biggest hit video is ?',
     answers: [{
-            text: 'Run away!',
+            text: 'Boots',
             correct: false
         },
         {
-            text: 'Die!',
+            text: 'Bastard Son!',
             correct: false
         },
         {
-            text: 'lay down and sleep!',
+            text: 'The Dead South',
             correct: false
         },
         {
-            text: 'liquor and dirty whores',
+            text: "in Hell I'll be in good company",
             correct: true
         }
     ]
@@ -169,7 +169,7 @@ const questions = [{
             correct: true
         }
     ]
-}, , {
+},  {
     question: 'Due to the outfits the band wears , they got a nickname .... ?',
     answers: [{
             text: 'The Amish Mafia',
@@ -189,7 +189,7 @@ const questions = [{
         }
     ]
 }, {
-    question: 'Co,ton had to quit the band ,because .... ?',
+    question: 'Colton had to quit the band ,because .... ?',
     answers: [{
             text: 'Insomnia and exhaustion ',
             correct: true
